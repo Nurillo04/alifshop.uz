@@ -1,5 +1,7 @@
 "use client";
 
+// import { Carousel } from "../../../node_modules/flowbite/lib/esm/index";
+
 import { Carousel } from "flowbite-react";
 export default function Lider() {
   return (
